@@ -4,7 +4,7 @@
 **Trilha:** Desenvolvimento mobile
 
 ## Sobre o quiz
-Utilizei uma das minhas áreas de estudo (Patrimônio Cultural) para um jogo de perguntas e respostas, feito em Dart, com conceitos básicos retirados de materiais de leitura da UNESCO e do IPHAN, a fim de que o quiz seja uma forma de aprendizagem, compreensão e disseminação dessa temática.feito em Dart, sobre patrimônio cultural (material, imaterial e natural), elaborado com materiais de leitura da UNESCO e do IPHAN, tendo como foco o Maranhão. 
+Utilizei uma das minhas áreas de estudo (Patrimônio Cultural) para um jogo de perguntas e respostas, feito em Dart, com conceitos básicos retirados de materiais de leitura da UNESCO e do IPHAN, a fim de que o quiz seja uma forma de aprendizagem, compreensão e disseminação dessa temática.
 
 Ao iniciar a partida, jogador informa o nome, responde 5 perguntas de múltipla escolha (A, B, C ou D) e, no final, recebe a pontuação e uma mensagem de acordo com o desempenho.
 
